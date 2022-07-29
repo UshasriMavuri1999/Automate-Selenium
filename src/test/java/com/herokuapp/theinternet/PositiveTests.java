@@ -37,7 +37,7 @@ public class PositiveTests {
 		sleep(1500);
 		driver.findElement(By.name("password")).sendKeys("Usha*24");
 		sleep(1500);
-		driver.findElement(By.name("phone")).sendKeys("7893245496");
+		driver.findElement(By.name("phone")).sendKeys("8765432134");
 		sleep(1500);
 		
 		//check box
